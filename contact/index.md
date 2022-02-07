@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [College of Horticulture Science](https://yyxy.zafu.edu.cn/index.htm).
+Our lab is part of the [College of Horticulture Science](https://yyxy.zafu.edu.cn/index.htm).  
 We are located on the 3rd floor of College Build #15.
 
 {%
@@ -34,8 +34,8 @@ We are located on the 3rd floor of College Build #15.
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-666 Wusu street, linan
-Hangzhou, Zhejiang 311300
+666 Wusu street, linan  
+Hangzhou, Zhejiang 311300  
 China
 {:.center}
 
