@@ -2,20 +2,17 @@
 
 # site properties and page defaults
 title: SunLab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.png
+description: Sun Laboratory website
+logo: images/logo.jpg
 header: images/background.jpg
 footer: images/background.jpg
 baseurl:
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: xs57@zafu.edu.cn
+  google-scholar: Xuepeng Sun
+  github: XuepengSun
 
 ### advanced settings
 
