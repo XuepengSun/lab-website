@@ -1,4 +1,4 @@
-I"E<h1 id="blog"><i class="fas fa-feather-alt"></i>Blog</h1>
+I"×<h1 id="blog"><i class="fas fa-feather-alt"></i>Blog</h1>
 
 <!-- section break -->
 
@@ -90,12 +90,4 @@ Facilisis leo vel ...
 
 <!-- section break -->
 
-<h2 id="news">News</h2>
-
-<!-- Twitter embeds from https://publish.twitter.com/ -->
-
-<p class="center"><a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/GreeneScientist?ref_src=twsrc%5Etfw">Tweets by GreeneScientist</a> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-
-<p class="center"><a href="https://twitter.com/GreeneScientist?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/intent/tweet?screen_name=GreeneScientist&amp;ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @GreeneScientist</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 :ET

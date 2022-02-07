@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/members/anne-chovie.html</loc>
-<lastmod>2022-02-07T23:05:23+08:00</lastmod>
+<lastmod>2022-02-08T00:10:52+08:00</lastmod>
 </url>
 <url>
 <loc>/members/felix-cited.html</loc>
-<lastmod>2022-02-07T23:05:23+08:00</lastmod>
+<lastmod>2022-02-08T00:10:52+08:00</lastmod>
 </url>
 <url>
 <loc>/members/upton-goode.html</loc>
-<lastmod>2022-02-07T23:05:23+08:00</lastmod>
+<lastmod>2022-02-08T00:10:52+08:00</lastmod>
 </url>
 <url>
 <loc>/2019/01/07/example-post-1.html</loc>
@@ -34,10 +34,10 @@
 <loc>/team/</loc>
 </url>
 <url>
-<loc>/blog/</loc>
+<loc>/tools/</loc>
 </url>
 <url>
-<loc>/tools/</loc>
+<loc>/news/</loc>
 </url>
 <url>
 <loc>/</loc>

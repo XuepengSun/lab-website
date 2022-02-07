@@ -1,9 +1,9 @@
 ### basic settings
 
 # site properties and page defaults
-title: SunLab
+title: Sun Laboratory
 description: Sun Laboratory website
-logo: images/logo.jpg
+logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl:
