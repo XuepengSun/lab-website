@@ -1,0 +1,95 @@
+I"<h1 id="team"><i class="fas fa-users"></i>Team</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<!-- section break -->
+
+<a href="/members/upton-goode.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="Principal Investigator"><i class="fas fa-microscope"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/member.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Upton O. Goode"
+    >
+  </span><span class="portrait_name">
+      Upton O. Goode
+    </span><span class="portrait_description">
+      Bone Investigator
+    </span></a>
+
+<a href="/members/felix-cited.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="PhD Student"><i class="fas fa-graduation-cap"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/member.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Felix Cited"
+    >
+  </span><span class="portrait_name">
+      Felix Cited
+    </span><span class="portrait_description">
+      Treat Researcher
+    </span></a>
+
+<a href="/members/anne-chovie.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="Programmer"><i class="fas fa-code"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/member.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Anne Chovie"
+    >
+  </span><span class="portrait_name">
+      Anne Chovie
+    </span><span class="portrait_description">
+      Bark Ops Engineer
+    </span></a>
+
+<!-- section break -->
+<!-- section background images/banner.jpg -->
+<!-- section dark -->
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+<!-- section break -->
+
+<h2 id="join">Join</h2>
+
+<h4 id="post-dogtoral-researcher">Post Dogtoral Researcher</h4>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+<ul>
+  <li>3+ (dog) years experience managing bone portfolios</li>
+  <li>Strong desire to learn tricks and go on walkies</li>
+  <li>Aptitude to sit and stay</li>
+</ul>
+
+<p class="center"><a class="link" href="https://google.com/" data-icon="true" data-text="true" data-style="button"><i class="fas fa-external-link-alt fa-lg "></i><span>Apply Now</span></a></p>
+
+<!-- section break -->
+
+<h2 id="funding">Funding</h2>
+
+<p class="center">Our work is made possible by funding from several organizations.</p>
+
+<div class="gallery" data-style="square" data-number="6"><a href="https://nasa.gov/" class="gallery_item" data-tooltip="Cool Foundation">
+        <img src="/images/photo.jpg" loading="lazy" alt="" />
+      </a><a href="https://nasa.gov/" class="gallery_item" data-tooltip="Cool Institute">
+        <img src="/images/photo.jpg" loading="lazy" alt="" />
+      </a><a href="https://nasa.gov/" class="gallery_item" data-tooltip="Cool Initiative">
+        <img src="/images/photo.jpg" loading="lazy" alt="" />
+      </a><a href="https://nasa.gov/" class="gallery_item" data-tooltip="Cool Foundation">
+        <img src="/images/photo.jpg" loading="lazy" alt="" />
+      </a><a href="https://nasa.gov/" class="gallery_item" data-tooltip="Cool Institute">
+        <img src="/images/photo.jpg" loading="lazy" alt="" />
+      </a><a href="https://nasa.gov/" class="gallery_item" data-tooltip="Cool Initiative">
+        <img src="/images/photo.jpg" loading="lazy" alt="" />
+      </a></div>
+
+:ET
