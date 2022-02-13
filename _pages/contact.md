@@ -1,9 +1,9 @@
 ---
 title: "Sun Lab - Contact"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Contact"
 sitemap: false
-permalink: /vacancies
+permalink: /Contact
 ---
 
 # Open positions
