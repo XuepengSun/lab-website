@@ -1,0 +1,29 @@
+{
+  "name": "jekyll-lab-theme",
+  "version": "1.0.2",
+  "main": "gulpfile.babel.js",
+  "type": "module",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.1",
+    "autoprefixer": "10.4.2",
+    "babel-preset-env": "1.7.0",
+    "babel-register": "6.26.0",
+    "browser-sync": "2.27.7",
+    "browsersync": "0.0.1-security",
+    "cross-env": "7.0.3",
+    "cross-spawn": "7.0.3",
+    "gulp": "4.0.2",
+    "gulp-postcss": "9.0.1",
+    "cssnano": "^5.0.17",
+    "postcss": "^8.4.6",
+    "postcss-import": "^14.0.1",
+    "tailwindcss": "^3.0.19"
+  },
+  "scripts": {
+    "build:production": "NODE_ENV=production gulp",
+    "build:dev": "NODE_ENV=development gulp",
+    "build": "npm run build:production",
+    "dev": "NODE_ENV=development gulp serve",
+    "start": "npm run dev"
+  }
+}

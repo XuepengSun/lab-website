@@ -1,57 +1,35 @@
-<h1 align="center">Lab Website Template</h1>
-<p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" alt="Lab Website Template">
-</p>
-An easy-to-use, flexible website template for labs, including automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel and more time running your lab.
+# Jekyll Lab-Template with ORCID Integration
 
-#### 🔔 Still in pre-release/preview. We need testers! 🔔
+This repo provides a jekyll page template for lab teams. As a special feature it comes completely without JavaScript, Trackers, Cookies and is able to generate several pages automatically based on the commonly used ORCID. Instead of maintaining the team & publication pages manually you only need to specify the ORCID and start the jekyll server or build the page.
 
-Please help us out!
-How easy is the template to use?
-How flexible is it?
-How's our documentation?
+## Usage
 
-## Features
+### Projects
 
-- **Automatically generated citations** (using [Manubot](https://manubot.org)) from **just an identifier** (DOI, PubMed ID, and many more)
-- Automatically pull in and display tags from GitHub repositories
-- Works and looks good on all major desktop and mobile browsers
-- A suite of pre-built components:
-  - formatted tables and code blocks
-  - social media links with icons
-  - figures with captions
-  - image galleries
-  - multi-size cards with image and text
-  - citations
-  - ...[and many more](https://github.com/greenelab/lab-website-template/wiki/Components)!
-- A **home page**, where you can highlight the most important things that make your lab special
-- A **research page**, with a sorted, searchable list of all your published works
-- A **tools page**, where you can show off your software, datasets, or other useful things
-- A **team** page, compiled automatically from individual members
-- Individual **team member pages** with bios, assignable roles, and social media links
-- A **blog page**, with a sorted, grouped, tagged list of all your posts
+To add a new project you must create a new markdown file in the `_projects` folder. This file should contain the basic information about the project and may define some properties in the frontmatter like a project title, a description and an image.
 
-## Gallery
+```markdown
+---
+title: Another project
+description: We are working on a a second project!
+image: /assets/img/project.jpeg
+---
+```
 
-[🖼️ See who else is using the template and what it can do!](https://github.com/greenelab/lab-website-template/wiki/Gallery)
+### Team
 
-## Documentation
+To add a new team member simply create new markdown file in `_team` containing the orcid in the jekyll frontmatter. The further data will be fetched from orcid.
 
-[▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
+```markdown
+---
+orcid: 0000-0000-0000-0000
+---
+```
 
-[🗚 Basic Formatting](https://github.com/greenelab/lab-website-template/wiki/Basic-Formatting)
+## Development
 
-[📝 Basic Editing](https://github.com/greenelab/lab-website-template/wiki/Basic-Editing)
+To simplify the development, especially when using Windows, a development environment using docker is provided. To start the dev server you only need to start the `docker-compose.dev.yml` using `docker-compose -f docker-compose.dev.yml up -d`. Afterwards the dev server is available on [port 4000](http://localhost:4000), so you can change your page and check the effect in the browser.
 
-[🤖 Automatic Citations](https://github.com/greenelab/lab-website-template/wiki/Automatic-Citations)
+## License
 
-[⚙️ Advanced Editing](https://github.com/greenelab/lab-website-template/wiki/Advanced-Editing)
-
-[🧱 Components](https://github.com/greenelab/lab-website-template/wiki/Components)
-
-[🧠 Background Knowledge](https://github.com/greenelab/lab-website-template/wiki/Background-Knowledge)
-
-[💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
-
-[❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).

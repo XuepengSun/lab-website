@@ -1,0 +1,70 @@
+title: Lab Theme
+
+collections:
+  team:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: false
+  theses:
+    output: false
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  oss-projects:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: team # select all person pages
+    values:
+      layout: person
+  - scope:
+      path: ""
+      type: oss-projects # select all project pages
+    values:
+      layout: project
+  - scope:
+      path: ""
+      type: projects # select all project pages
+    values:
+      layout: project
+
+# Markdown and syntax highlight
+markdown: kramdown
+highlighter: rouge
+highlight_theme: github # https://github.com/jwarby/jekyll-pygments-themes
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: "highlight"
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+include: ["_pages"]
+
+plugins:
+  - jekyll-seo-tag
+  
+exclude:
+  - node_modules/
+  - package-lock.json
+  - yarn.lock
+  - tailwind.config.js
+  - package.json
+  - Dockerfile
+  - Dockerfile.dev
+  - docker-compose.yml
+  - docker-compose.dev.yml
+  - _theses/template.md
+
+team-roles:
+  - Professor
+  - Phd Student
+  - Student
+  - Alumni
