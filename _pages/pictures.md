@@ -12,8 +12,10 @@ Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 ## ZAFU
 
 #### Introduction to the ZAFU [(see the details about ZAFU)](https://www.zafu.edu.cn):
-<iframe width="640" height="360" src="https://www.youtube.com/embed/fi8sMgs8h1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/campus/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+</div>
 
 
 ## Gallery

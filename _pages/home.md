@@ -54,5 +54,5 @@ We are a dynamic research group at the [Zhejiang A&F University](https://www.zaf
 
 
 
- **We are looking for passionate graduate students as well as highly motivated Postdoc/PhD to join our group** [(more info)]({{ site.url }}{{ site.baseurl }}/contact) **!**
+ **We are looking for passionate graduate students as well as highly motivated Postdoc/PhD to join our group!** [(more info)]({{ site.url }}{{ site.baseurl }}/contact)
 
