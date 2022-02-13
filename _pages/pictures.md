@@ -11,7 +11,7 @@ Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 
 ## ZAFU
 
-#### Introduction to the ZAFU [(see the details about ZAFU)](https://www.zafu.edu.cn):
+#### Introduction to the ZAFU [(see the details about ZAFU)](https://www.zafu.edu.cn). Right click to visualize large picture in a new tab.
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
@@ -51,6 +51,7 @@ Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 
 
 ## Gallery
+#### Right click to visualize large picture in a new tab.
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
@@ -61,7 +62,7 @@ Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt="hello!" title="adam solomon's hello"/>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
