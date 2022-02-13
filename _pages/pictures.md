@@ -11,7 +11,7 @@ Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 
 ## ZAFU
 
-#### Introduction to the ZAFU [(see the details about ZAFU)](https://www.zafu.edu.cn). Right click to visualize large picture in a new tab.
+#### Introduction to the ZAFU [(see the details about ZAFU)](https://www.zafu.edu.cn). (Right click to visualize large picture in a new tab).
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
@@ -51,7 +51,7 @@ Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 
 
 ## Gallery
-#### Right click to visualize large picture in a new tab.
+#### (Right click to visualize large picture in a new tab)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
