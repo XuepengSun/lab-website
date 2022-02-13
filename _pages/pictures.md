@@ -61,12 +61,9 @@ Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 <div class="row">
 {% endif %}
 
-<li class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt="hello!" title="adam solomon's hello"/>
-<span></span>
-<em>测试标题</em>
-</a>
-</li>
+<div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt="hello!" title="adam solomon's hello"/>试一试题目
+</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 

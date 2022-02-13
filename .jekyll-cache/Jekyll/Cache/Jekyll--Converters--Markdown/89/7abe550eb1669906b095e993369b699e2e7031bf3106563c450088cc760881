@@ -1,0 +1,39 @@
+I"{<h1 id="pictures">Pictures</h1>
+<p>Jump to: <a href="#ZAFU">ZAFU</a>, <a href="#gallery">Gallery</a></p>
+
+<h2 id="zafu">ZAFU</h2>
+
+<h4 id="introduction-to-the-zafu-see-the-details-about-zafu-right-click-to-visualize-large-picture-in-a-new-tab">Introduction to the ZAFU <a href="https://www.zafu.edu.cn">(see the details about ZAFU)</a>. (Right click to visualize large picture in a new tab).</h4>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/Gallery/zafu1.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/Gallery/zafu2.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="gallery">Gallery</h2>
+<h4 id="right-click-to-visualize-large-picture-in-a-new-tab">(Right click to visualize large picture in a new tab)</h4>
+
+<div class="row">
+
+  <div>
+    <p><img src="http://localhost:4000/images/picpic/Gallery/zafu1.jpg" class="img-responsive" width="95%" style="float: left" alt="hello!" title="adam solomon's hello" />试一试题目</p>
+  </div>
+
+  <div>
+    <p><img src="http://localhost:4000/images/picpic/Gallery/zafu2.jpg" class="img-responsive" width="95%" style="float: left" alt="hello!" title="adam solomon's hello" />试一试题目</p>
+  </div>
+
+</div>
+
+<p>   </p>
+
+:ET
