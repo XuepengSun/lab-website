@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-Jump to [Principal investigator](#principal-investigator), [Staff and Postdoc](#staff-and-postdoc), [Graduate students](#graduate-students), [Alumni](#alumni), [Lab visitors and Internships](#lab-visitors-and-internships).
+Jump to [Principal investigator](#principal-investigator), [Researchers](#researchers), [Graduate students](#graduate-students), [Alumni](#alumni), [Lab visitors and Internships](#lab-visitors-and-internships).
 
 ## Principal investigator
 {% assign number_printed = 0 %}
@@ -76,7 +76,7 @@ Jump to [Principal investigator](#principal-investigator), [Staff and Postdoc](#
 
 ## Researchers
 {% assign number_printed = 0 %}
-{% for member in site.data.staff_postdoc %}
+{% for member in site.data.researchers %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 

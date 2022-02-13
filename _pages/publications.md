@@ -63,5 +63,8 @@ permalink: /publications/
 
 ## Patents
 
+<p> &nbsp; </p>
+<p> &nbsp; </p>
+
 
 

@@ -8,30 +8,18 @@
 #  education3:
 #  education4:
 
-- name: Yu Min Kim
+- name: Tong Li
   photo: rock.jpg
-  info: Ph.D. student
+  info: Graduate student
   email: dbals123@naver.com
   number_educ: 0
   education1:
 
-- name: Eunsol Um
+- name: Yanna Xu
   photo: rock.jpg
-  info: Ph.D. student
+  info: Graduate student
   email: eunsol@kribb.re.kr
   number_educ: 0
   education1:
 
-- name: Dongmin Jang
-  photo: rock.jpg
-  info: Ph.D. student
-  email: sheffield@kribb.re.kr
-  number_educ: 0
-  education1:
-  
-- name: Gunwoo Park
-  photo: GunwooPark.png
-  info: Ph.D. student
-  email: peterpgw@kribb.re.kr
-  number_educ: 0
-  education1:
+

@@ -3,7 +3,7 @@ title: "Sun Lab - Contact"
 layout: textlay
 excerpt: "Contact"
 sitemap: false
-permalink: /Contact/
+permalink: /contact/
 ---
 
 # Open positions

@@ -1,0 +1,40 @@
+- name: Haijie Ma
+  photo: rock.jpg
+  info: PhD (Zhejiang University)
+  email: jhpark706@kribb.re.kr
+  number_educ: 2
+  education1: Genome editing
+  education2: Plant-pathogen interaction
+  education3:
+  education4:
+
+- name: Xiaoli Hu
+  photo: rock.jpg
+  info: PhD (University of Tennessee)
+  email: jhpark706@kribb.re.kr
+  number_educ: 2
+  education1: Bioinformatics
+  education2: Functional genomics
+  education3:
+  education4:
+
+- name: Jinli Gong
+  photo: rock.jpg
+  info: PhD (Huazhong Agriculture University)
+  email: jhpark706@kribb.re.kr
+  number_educ: 2
+  education1: Fruit postharvest biology
+  education2: Genome editing
+  education3:
+  education4:
+
+- name: Xiaolong Li
+  photo: rock.jpg
+  info: PhD (Nanjing Agriculture University)
+  email: jhpark706@kribb.re.kr
+  number_educ: 2
+  education1: Bioinformatics
+  education2: Genomics and population genetics
+  education3:
+  education4:
+
