@@ -1,15 +1,12 @@
 ---
-title: "SBAI Lab - Team"
+title: "Sub Lab - Team"
 layout: gridlay
-excerpt: "SBAI Lab: Team members"
+excerpt: "Sub Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
-
- **We are  looking for new Ph.D. students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
 
 Jump to [Principal investigator](#principal-investigator), [Staff and Postdoc](#staff-and-postdoc), [Graduate students](#graduate-students), [Alumni](#alumni), [Lab visitors and Internships](#lab-visitors-and-internships).
 
@@ -77,7 +74,7 @@ Jump to [Principal investigator](#principal-investigator), [Staff and Postdoc](#
 
 
 
-## Staff and Postdoc
+## Researchers
 {% assign number_printed = 0 %}
 {% for member in site.data.staff_postdoc %}
 

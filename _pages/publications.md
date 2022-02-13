@@ -1,7 +1,7 @@
 ---
-title: "SBAI Lab - Publications"
+title: "Sun Lab - Publications"
 layout: gridlay
-excerpt: "SBAI Lab -- Publications."
+excerpt: "Sun Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.co.kr/citations?user=wIpyBGAAAAAJ&hl=ko&oi=ao), [ORCID](https://orcid.org/0000-0002-6988-6239))
+(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=Xuepeng Sun))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,11 +52,6 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
-
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
-
 ## Full List of publications
 
 {% for publi in site.data.publist %}
@@ -65,3 +60,8 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+## Patents
+
+
+

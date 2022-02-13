@@ -1,12 +1,12 @@
 ---
-title: "SBAI Lab - Home"
+title: "Sun Lab - Home"
 layout: homelay
-excerpt: "Systems Biology of Aging and Immunity (SBAI) Lab at KOBIC."
+excerpt: "The Sun Laboratory"
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Korean Bioinformation Center (KOBIC)](https://www.kobic.re.kr/). Our research group mainly focuses on **the systems approaches to aging and immunity with a multitude of omics analysis, encompassing genomics, transcriptomics, proteomics, and metagenomics (microbiome).**
+We are a dynamic research group at the [Zhejiang A&F University](https://www.zafu.edu.cn/). Our researches mainly focus on **utilizing multi-omics data in combination with computational approaches to understand evolution and diversity of organisms and to explore molecular mechanisms underlying important agronomic traits of crop plants.**
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -54,15 +54,5 @@ We are a dynamic research group at the [Korean Bioinformation Center (KOBIC)](ht
 
 
 
-For more information about our research interest, please visit [Research](research) menu.
+ **We are looking for passionate graduate students as well as highly motivated Postdoc/PhD to join our group** [(more info)]({{ site.url }}{{ site.baseurl }}/contact) **!**
 
- **We are looking for passionate new Ph.D. students as well as Postdocs to join our group** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from the [Korea National Genome Project (NGP)](https://www.kobic.re.kr/ngp/) and the [Korea BioData Station (K-BDS)](https://kbds.re.kr/) from  [National Research Foundation of Korea](https://www.nrf.re.kr/eng/index).
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_KOBIC.png" style="width: 120px; margin: 10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NGP.png" style="width: 120px; margin: 10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.png" style="width: 120px; margin: 10px">
-</figure>

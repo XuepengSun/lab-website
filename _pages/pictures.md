@@ -1,17 +1,17 @@
 ---
-title: "SBAI Lab - Pictures"
+title: "Sun Lab - Pictures"
 layout: piclay
-excerpt: "SBAI Lab -- Pictures"
+excerpt: "Sun Lab -- Pictures"
 permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [KOBIC](#kobic), [Gallery](#gallery), [Cornell](#cornell), [St Andrews](#st-andrews)
+Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 
 
-## KOBIC
+## ZAFU
 
-#### Introduction to the KOBIC infrastructure [(see the details about KOBIC)](https://www.kobic.re.kr/):
+#### Introduction to the ZAFU [(see the details about ZAFU)](https://www.zafu.edu.cn):
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fi8sMgs8h1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -55,26 +55,4 @@ Jump to: [KOBIC](#kobic), [Gallery](#gallery), [Cornell](#cornell), [St Andrews]
 
 <p> &nbsp; </p>
 
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
 
-
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
-
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
-
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>
