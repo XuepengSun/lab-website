@@ -12,11 +12,43 @@ Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 ## ZAFU
 
 #### Introduction to the ZAFU [(see the details about ZAFU)](https://www.zafu.edu.cn):
+{% assign number_printed = 0 %}
+{% for pic in site.data.pictures_Leiden %}
 
-<table><tr>
-<td> <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/campus/zafu1.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/campus/zafu2.jpg" alt="Drawing" style="width: 250px;"/> </td>
-</tr></table>
+{% assign even_odd = number_printed | modulo: 4 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd > 2 %}
+</div>
+{% endif %}
+
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
+
 
 ## Gallery
 {% assign number_printed = 0 %}
