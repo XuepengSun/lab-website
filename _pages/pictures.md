@@ -13,13 +13,12 @@ Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 
 #### Introduction to the ZAFU [(see the details about ZAFU)](https://www.zafu.edu.cn):
 
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/campus/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
-
+<table><tr>
+<td> <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/campus/zafu1.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/campus/zafu2.jpg" alt="Drawing" style="width: 250px;"/> </td>
+</tr></table>
 
 ## Gallery
-(Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
