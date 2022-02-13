@@ -62,7 +62,7 @@ Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt="hello!" title="adam solomon's hello"/><p>Beginner mens image</p>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt="hello!" title="adam solomon's hello"/>Beginner mens image</span>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
