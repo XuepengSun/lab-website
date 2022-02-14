@@ -22,7 +22,7 @@ Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/campus/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" title="{{ site.url }}{{ site.baseurl }}/images/picpic/campus/{{ pic.title}}"/>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -62,7 +62,7 @@ Jump to: [ZAFU](#ZAFU), [Gallery](#gallery)
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt="hello!" title="adam solomon's hello"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image}}" class="img-responsive" width="95%" style="float: left" title="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.title}}"/>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

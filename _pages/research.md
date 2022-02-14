@@ -23,7 +23,7 @@ Plant genomes consist of an overwhelming part of non-coding regions where cis-re
 Genome editing in flowering trees is often less efficient than in annual plants. This project aims to develop new strategy to accelerated genome editing in horticultural important tree plants. 
 
 <br>
-![]({{ site.url }}{{ site.baseurl }}/images/respic/model.jpg){: style="width: 700px; float: left; margin: auto  auto"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/model.jpg){: style="width: 700px; float: left; margin: 20px 10px"}
 
 <br>
 <br>
