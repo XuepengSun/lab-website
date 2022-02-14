@@ -1,10 +1,60 @@
 - title: "Distinct and essential roles of bZIP transcription factors in the stress response and pathogenesis in Alternaria alternata"
   image:
   description:
-  authors: Y Gai<sup>\*\#</sup>, L Li, B Liu, H Ma, Y Chen, F Zheng, __<u>X Sun</u>__, M Wang, C Jiao, H Li\*.
+  authors: Y Gai<sup>\*\#</sup>, L Li, B Liu, H Ma, Y Chen, F Zheng, __<u>X Sun</u>__, M Wang, C Jiao, H Li<sup>\*</sup>.
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0944501321002214
     display: Microbiological Research 256,126915 (2022)
+  highlight: 0
+  news2:
+
+- title: "Comparative Transcriptome Profiling of Chinese Wild Grapes Provides Insights Into Powdery Mildew Resistance" 
+  image:
+  description:
+  authors: C Jiao<sup>\#</sup>, __<u>X Sun</u><sup>\#</sup>__, X Yan, X Xu, Q Yan, M Gao, Z Fei<sup>\*</sup>, X Wang<sup>\*</sup>.
+  link: 
+    url: https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-01-21-0006-R 
+    display: Phytopathology 111(11):2041-2051 (2021)
+  highlight: 0
+  news2:
+
+- title: "Chromosome-scale genome sequence of Alternaria alternata causing Alternaria brown spot of citrus"
+  image:
+  description:
+  authors: Y Gai, H Ma, Y Chen, L Li, Y Cao, M Wang, __<u>X Sun</u>__, C Jiao, B Riely, H Li<sup>\*</sup>.
+  link:
+    url: https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-10-20-0278-SC
+    display: Molecular Plant-Microbe Interactions 34(7):726-732 (2021)
+  highlight: 0
+  news2:
+
+- title: "Genomic analyses provide insights into spinach domestication and the genetic basis of agronomic traits"
+  image: spinach.jpg
+  description: 
+  authors: X Cai<sup>\#</sup>, __<u>X Sun</u><sup>\#</sup>__, C Xu<sup>\#</sup>, H Sun, X Wang, C Ge, Z Zhang, Q Wang<sup>\*</sup>, Z Fei<sup>\*</sup>, C Jiao<sup>\*\#</sup>, Q Wang<sup>\*</sup>.
+  link:
+    url: https://www.nature.com/articles/s41467-021-27432-z
+    display: Nature Communications 12:7246 (2021)
+  highlight: 1
+  news2: see [Cornell Chronicle](https://news.cornell.edu/stories/2021/12/gene-discoveries-could-lead-heartier-less-gritty-spinach), [ZJU News](https://www.zju.edu.cn/english/2021/1222/c19573a2453904/page.htm), [中文报道](http://www.cab.zju.edu.cn/chinese/2021/1215/c11148a2451673/page.htm)
+
+- title:
+  image:
+  description:
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  news2:
+
+- title:
+  image:
+  description:
+  authors:
+  link:
+    url:
+    display:
   highlight: 0
   news2:
 
