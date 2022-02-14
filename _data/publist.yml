@@ -4,7 +4,7 @@
   authors: Y Gai<sup>\*\#</sup>, L Li, B Liu, H Ma, Y Chen, F Zheng, __<u>X Sun</u>__, M Wang, C Jiao, H Li<sup>\*</sup>.
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0944501321002214
-    display: Microbiological Research 256,126915 (2022)
+    display: Microbiological Research 256:126915 (2022)
   highlight: 0
   news2:
 
@@ -60,7 +60,7 @@
 
 - title: "Phased diploid genome assemblies and pan-genomes provide insights into the genetic history of apple domestication"
   image: apple.jpg
-  description:  
+  description: "The fabled Silk Road – the 4,000-mile stretch between China and Western Europe where trade flourished from the second century B.C. to the 14th century A.D. – is responsible for one of our favorite and most valuable fruits: the domesticated apple (Malus domestica). Hybridizations with wild species have made the apple genome very complex and difficult to study, we tackled this problem by applying cutting-edge sequencing technologies and bioinformatics algorithms to assemble complete sets of both chromosomes for the domesticated apple and its two main wild progenitors. We discovered that the apple’s unique domestication history has led to untapped sources of genes that could be used for crop improvement, such as improving size, flavor, sweetness and texture."
   authors: __<u>X Sun</u><sup>\#</sup>__, C Jiao<sup>\#</sup>, H Schwaninger<sup>\#</sup>, T Chao, Y Ma, N Duan, A Khan, S Ban, K Xu, L Cheng, GY Zhong<sup>\*</sup>, Z Fei<sup>\*</sup>.
   link: 
     url: https://www.nature.com/articles/s41588-020-00723-9
@@ -78,225 +78,332 @@
   highlight: 0
   news2:
 
-- title:
+- title: "Cellular and molecular characterization of a thick-walled variant reveal a pivotal role of shoot apical meristem in transverse development of bamboo culm"
   image:
   description:
-  authors:
+  authors: Y Wang<sup>\#</sup>, __<u>X Sun</u><sup>\#</sup>__, Y Ding, Z Fei, C Jiao, M Fan, B Yao, P Xin, J Chu, Q Wei<sup>\*</sup>.
   link:
-    url:
-    display:
+    url: https://academic.oup.com/jxb/article/70/15/3911/5481762?login=true
+    display: Journal of Experimental Botany 70(15):3911–3926 (2019)
   highlight: 0
   news2:
 
-- title:
+- title: "Diverse Sorghum bicolor accessions show marked variation in growth and transcriptional responses to arbuscular mycorrhizal fungi"
   image:
   description:
-  authors:
+  authors: SJ Watts-Williams, B Emmett, V Levesque-Tremblay, AM. MacLean, __<u>X Sun</u>__, JW. Satterlee, Z Fei, MJ Harrison<sup>\*</sup>. 
   link:
-    url:
-    display:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/pce.13509
+    display: Plant Cell and Environment 42(5):1758-1774 (2019)
   highlight: 0
   news2:
 
-- title:
+- title: "Morphological dissection and cellular and transcriptome characterizations of bamboo pith cavity formation reveal a pivotal role of genes related to programmed cell death"
   image:
   description:
-  authors:
-  link:
-    url:
-    display:
+  authors: L Guo<sup>\#</sup>, __<u>X Sun</u><sup>\#</sup>__, Z Li, Y Wang, Z Fei, C Jiao, J Feng, D Cai, X Feng, Y Ding, C Zhang, Q Wei<sup>\*</sup>. 
+  link: 
+    url: https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13033
+    display: Plant Biotechnology Journal 17(5):982-997 (2019)
   highlight: 0
   news2:
 
-- title:
+- title: "Chromosome-scale genome assembly of kiwifruit Actinidia eriantha with single-molecule sequencing and chromatin interaction mapping"
   image:
   description:
-  authors:
+  authors: W Tang<sup>\#</sup>, __<u>X Sun</u><sup>\#</sup>__, J Yue<sup>\#</sup>, X Tang, C Jiao, Y Yang, X Niu, M Miao, D Zhang, S Huang, W Shi, M Li, C Fang, Z Fei<sup>\*</sup>, Y Liu<sup>\*</sup>.
   link:
-    url:
-    display:
+    url: https://academic.oup.com/gigascience/article/8/4/giz027/5426569?login=true
+    display: GigaScience 8(4):giz027 (2019)
   highlight: 0
   news2:
 
-- title:
+- title: "Genome and evolution of the arbuscular mycorrhizal fungus Diversispora epigaea (formerly Glomus versiforme) and its bacterial endosymbionts"
+  image: AMF.jpg
+  description: Arbuscular mycorrhizal (AM) fungi form endosymbioses with most plants, and they themselves are hosts for Mollicutes/Mycoplasma‐related endobacteria (MRE). Despite their significance, genomic information for AM fungi and their MRE are relatively sparse, which hinders our understanding of their biology and evolution. We assembled the genomes of the AM fungus Diversispora epigaea (formerly Glomus versiforme) and its MRE and performed comparative genomics and evolutionary analyses.
+  authors: __<u>X Sun</u>__, W Chen, S Ivanov, AM MacLean, H Wight, T Ramaraj, J Mudge, M Harrison<sup>\*</sup>, Z Fei<sup>\*</sup>.
+  link: 
+    url: https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15472
+    display: New Phytologist 221:1556-1573 (2019)
+  highlight: 1
+  news2: see [BTI News](https://btiscience.org/explore-bti/news/post/back-to-our-roots-insights-from-genomes-of-a-plant-associated-fungus-and-its-bacterial-endosymbionts/#:~:text=In%20an%20article%20published%20this%20month%20in%20the,%E2%80%93%20beneficial%20bacteria%20that%20live%20inside%20its%20cells),[Genome Watch in Nature Reviews](https://www.nature.com/articles/s41579-021-00509-8)
+
+- title: "Novel insights into global translational regulation through Pumilio family RNA-binding protein Puf3p revealed by ribosomal profiling"
   image:
   description:
-  authors:
+  authors: Z Wang<sup>\#</sup><sup>\*</sup>, __<u>X Sun</u><sup>\#</sup>__, J Wee, X Guo, Z Gu<sup>\*</sup>.
   link:
-    url:
-    display:
+    url: https://link.springer.com/article/10.1007/s00294-018-0862-4
+    display: Current Genetics 65:201-212 (2019)
   highlight: 0
   news2:
 
-- title:
+- title: "Cell-wall-degrading enzymes required for virulence in the host selective toxin-producing necrotroph Alternaria alternata of citrus"
   image:
   description:
-  authors:
+  authors: H Ma<sup>\#</sup>, B Zhang<sup>\#</sup>, Y Gai, __<u>X Sun</u>__, KR Chung<sup>\*</sup>, H Li<sup>\*</sup>.
   link:
-    url:
-    display:
+    url: https://www.frontiersin.org/articles/10.3389/fmicb.2019.02514/full
+    display: Frontiers in Microbiology 10:2514 (2019)
   highlight: 0
   news2:
 
-- title:
+- title: "First report of Luffa aphid-borne yellows virus in Cucurbita mostchata in China"
   image:
   description:
-  authors:
+  authors: B Peng, B Qin, J Cai, __<u>X Sun</u>__, H Wu, Q Gu<sup>\*</sup>
   link:
-    url:
-    display:
+    url: https://apsjournals.apsnet.org/doi/10.1094/PDIS-12-18-2192-PDN
+    display: Plant Disease 103, 2481 (2019)
   highlight: 0
   news2:
 
-- title:
+- title: "A novel FADS2 isoform identified in human milk fat globule suppresses FADS2 mediated Δ6-desaturation of omega-3 fatty acids"
   image:
   description:
-  authors:
+  authors: KSD Kothapalli<sup>\#</sup><sup>\*</sup>, HG Park<sup>\#</sup>, X Guo, __<u>X Sun</u>__, J Zhou, SS Hyon, X Qin, P Lawrence, RR Ran-Ressler, JY Zhang, Z Gu<sup>\*</sup>, JT Brenna<sup>\*</sup>.
   link:
-    url:
-    display:
+    url: https://www.sciencedirect.com/science/article/pii/S0952327818300681
+    display: Prostaglandins Leukot Essent Fatty Acids 138:52-59 (2018)
   highlight: 0
   news2:
 
-- title:
+- title: "Wheat microbiome bacteria can reduce virulence of a plant pathogenic fungus by altering histone acetylation"
   image:
   description:
-  authors:
+  authors: Y Chen<sup>\#\*</sup>, J Wang<sup>\#</sup>, N Yang, Z Wen, __<u>X Sun</u>__, Y Chai, Z Ma<sup>\*</sup>
   link:
-    url:
-    display:
+    url: https://www.nature.com/articles/s41467-018-05683-7
+    display: Nature Communications 9:3429 (2018)
   highlight: 0
   news2:
 
-- title:
+- title: "Maternal inheritance of a single somatic animal cell displayed by the bacteriocyte in the whitefly Bemisia tabaci"
+  image: whitefly.jpg
+  description: Whitefly bacteriocytes have different microsatellite alleles from other somatic cells, the bacteriocyte genotype is stable over three sexual generations of the insect. Bacteriocyte genomes in different insects are genetically very similar and the single bacteriocyte transmitted to the sexual egg persists through embryogenesis.
+  authors: J Luan<sup>\#</sup>, __<u>X Sun</u><sup>\#</sup>__, Z Fei, AE Douglas<sup>\*</sup>. 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0960982217316743
+    display: Current Biology 28:459-465 (2018)
+  highlight: 1
+  news2: 
+
+- title: "Draft genome of spinach and transcriptome diversity of 120 Spinacia accessions"
   image:
   description:
-  authors:
+  authors: C Xu<sup>\#</sup>, C Jiao<sup>\#\*</sup>, H Sun<sup>\#</sup>, X Cai, X Wang, C Ge, Y Zheng, W Liu, __<u>X Sun</u>__, Y Xu, J Deng, Z Zhang, S Huang, S Dai, B Mou, Q Wang, Z Fei<sup>\*</sup>, Q Wang<sup>\*</sup>. 
   link:
-    url:
-    display:
+    url: https://www.nature.com/articles/ncomms15275
+    display: Nature Communications 8:15275 (2017)
   highlight: 0
   news2:
 
-- title:
-  image:
+- title: "Diversity, distribution, and evolution of tomato viruses in China uncovered by small RNA sequencing"
+  image: 
   description:
-  authors:
+  authors: C Xu<sup>\#</sup>, __<u>X Sun</u><sup>\#\*</sup>__, A Taylor, C Jiao, Y Xu, X Cai, X Wang, C Ge, G Pan, Q Wang, Z Fei, Q Wang<sup>\*</sup>.
   link:
-    url:
-    display:
+    url: https://journals.asm.org/doi/full/10.1128/JVI.00173-17
+    display: Journal of Virology 91:e00173-00117 (2017)
   highlight: 0
   news2:
 
-- title:
+- title: "Functional analysis of two sterol regulatory element binding proteins in Penicillium digitatum"
   image:
   description:
-  authors:
+  authors: R Ruan, M Wang, X Liu, __<u>X Sun</u>__, K Chung, H Li<sup>\*</sup>. 
   link:
-    url:
-    display:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176485
+    display: PLoS One 12:e0176485 (2017)
   highlight: 0
   news2:
 
-- title:
+- title: "The citrus postharvest pathogen Penicillium digitatum depends on the PdMpkB kinase for developmental and virulence functions"
   image:
   description:
-  authors:
+  authors: H Ma, __<u>X Sun</u>__, M Wang, Y Gai, K Chung, H Li<sup>\*</sup>.
   link:
-    url:
-    display:
+    url: https://www.sciencedirect.com/science/article/pii/S0168160516303944
+    display: International Journal of Food Microbiology 235:167-176 (2016)
   highlight: 0
   news2:
 
-- title:
+- title: "Genomic and transcriptomic analyses of the tangerine pathotype of Alternaria alternata in response to oxidative stress"
   image:
   description:
-  authors:
+  authors: M Wang, __<u>X Sun</u>__, D Yu, J Xu K Chung, H Li<sup>\*</sup>. 
   link:
-    url:
-    display:
+    url: https://www.nature.com/articles/srep32437
+    display: Scientific Reports 6:32437 (2016)
   highlight: 0
   news2:
 
-- title:
+- title: "Coordinated transcriptional and post-transcriptional regulation of mitochondrial functions in yeast strains"
   image:
   description:
-  authors:
+  authors: __<u>X Sun</u><sup>\#</sup>__, Z Wang<sup>\#</sup>, H Jiang, H Li, Z Gu<sup>\*</sup>.
   link:
-    url:
-    display:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153523
+    display: PLoS One 11:e0153523 (2016)
   highlight: 0
   news2:
 
-- title:
+- title: "Evolution of gene regulation during transcription and translation"
+  image: riboseq.jpg
+  description: Our first Riboseq paper done in yeast
+  authors: Z Wang<sup>\#</sup>, __<u>X Sun</u><sup>\#</sup>__, X Guo, H Jiang, Z Gu<sup>\*</sup>.
+  link:
+    url: https://academic.oup.com/gbe/article/7/4/1155/535841?login=true
+    display: Genome Biology and Evolution 7:1155–1167 (2015)
+  highlight: 1
+  news2: see our [RiboseqTools](https://github.com/XuepengSun/RiboseqTools) developped for Riboseq data analysis.
+
+- title: "Deletion of PdMit1, a homolog of yeast Csg1, affects growth and Ca 2+ sensitivity of the fungus Penicillium digitatum, but does not alter virulence"
   image:
   description:
-  authors:
+  authors: C Zhu, W Wang, M Wang, R Ruan, __<u>X Sun</u>__, M He, C Mao, H Li<sup>\*</sup>. 
   link:
-    url:
-    display:
+    url: https://www.sciencedirect.com/science/article/pii/S0923250815000285
+    display: Research in Microbiology 166:143-152 (2015)
   highlight: 0
   news2:
 
-- title:
+- title: "Diminishing returns in next-generation sequencing (NGS) transcriptome data"
   image:
   description:
-  authors:
+  authors: R Lei, K Ye, Z Gu<sup>\*</sup>, __<u>X Sun</u><sup>\*</sup>__. 
   link:
-    url:
-    display:
+    url: https://www.sciencedirect.com/science/article/pii/S0378111914013869
+    display: Gene 557:82-87 (2015)
   highlight: 0
   news2:
 
-- title:
+- title: "PdbrlA, PdabaA and PdwetA control distinct stages of conidiogenesis in¬ Penicillium digitatum"
   image:
   description:
-  authors:
+  authors: M Wang, __<u>X Sun</u>__, C Zhu, Q Xu, R Ruan, D Yu, H Li<sup>\*</sup>.
   link:
-    url:
-    display:
+    url: https://www.sciencedirect.com/science/article/pii/S0923250814002526
+    display: Research in Microbiology 166:56-65 (2015)
   highlight: 0
   news2:
 
-- title:
+- title: "Os2 MAP kinase-mediated osmostress tolerance in Penicillium digitatum is associated with its positive regulation on glycerol synthesis and negative regulation on ergosterol synthesis"
   image:
   description:
-  authors:
+  authors: M Wang, C Chen, C Zhu, __<u>X Sun</u>__, R Ruan, H Li<sup>\*</sup>.
   link:
-    url:
-    display:
+    url: https://www.sciencedirect.com/science/article/pii/S0944501313001973
+    display: Microbiological Research 169:511-521 (2014)
   highlight: 0
   news2:
 
-- title:
+- title: "Improvement of a gene targeting system for genetic manipulation in Penicillium digitatum"
   image:
   description:
-  authors:
+  authors: Q Xu, C Zhu, M Wang, __<u>X Sun</u>__, H Li<sup>\*</sup>. 
   link:
-    url:
-    display:
+    url: https://link.springer.com/article/10.1631/jzus.B1300213
+    display: Journal of Zhejiang University Science B 15:116-124 (2014)
   highlight: 0
   news2:
 
-- title:
+- title: "Genomewide investigation into DNA elements and ABC transporters involved in imazalil resistance in Penicillium digitatum"
   image:
   description:
-  authors:
+  authors: __<u>X Sun</u>__, R Ruan, L Lin, C Zhu, M Wang, H Li<sup>\*</sup>, D Yu.
   link:
-    url:
-    display:
+    url: https://academic.oup.com/femsle/article/348/1/11/563150?login=true
+    display: FEMS Microbiology Letters 348:11-18 (2013)
   highlight: 0
   news2:
 
-- title:
+- title: "The pH signaling transcription factor PacC is required for full virulence in Penicillium digitatum"
   image:
   description:
-  authors:
+  authors: T Zhang, __<u>X Sun</u>__, Q Xu, C Luis González, H Li<sup>\*</sup>. 
   link:
-    url:
-    display:
+    url: https://link.springer.com/article/10.1007/s00253-013-5129-x
+    display: Applied Microbiology and Biotechnology 97:9087-9098.
   highlight: 0
   news2:
+
+- title: "PdSNF1, a sucrose non-fermenting protein kinase gene, is required for Penicillium digitatum conidiation and virulence"
+  image:
+  description:
+  authors: T Zhang, __<u>X Sun</u>__, Q Xu, C Zhu, Q Li, H Li<sup>\*</sup>.
+  link:
+    url: https://link.springer.com/article/10.1007/s00253-012-4593-z
+    display: Applied Microbiology and Biotechnology 97:5433-5445.
+  highlight: 0
+  news2:
+
+- title: "The calcineurin-responsive transcription factor Crz1 is required for conidation, full virulence and DMI resistance in Penicillium digitatum"
+  image:
+  description:
+  authors: T Zhang, Q Xu, __<u>X Sun</u>__, H Li<sup>\*</sup>. 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0944501312001346
+    display: Microbiological Research 168:211-222 (2013)
+  highlight: 0
+  news2:
+
+- title: "PdMLE1, a specific and active transposon acts as a promoter and confers Penicillium digitatum with DMI resistance"
+  image:
+  description:
+  authors: __<u>X Sun</u>__, Q Xu, R Ruan, T Zhang, C Zhu, H Li<sup>\*</sup>.
+  link:
+    url: https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1758-2229.12012
+    display: Environmental Microbiology Reports 5:135-142 (2013)
+  highlight: 0
+  news2:
+
+- title: "PdMfs1, a major facilitator superfamily transporter from Penicillium digitatum, is partially involved in the imazalil-resistance and pathogenicity"
+  image:
+  description:
+  authors: J Wang, __<u>X Sun</u>__, L Lin, T Zhang, Z Ma, H Li<sup>\*</sup>.
+  link:
+    url: https://academicjournals.org/journal/AJMR/article-abstract/2EEB55017369
+    display: African Journal of Microbiology Research 6:95-105 (2012)
+  highlight: 0
+  news2:
+
+- title: "Complete mitochondrial genome sequence of the phytopathogenic fungus Penicillium digitatum and comparative analysis of closely related species"
+  image:
+  description:
+  authors: __<u>X Sun</u>__, H Li, D Yu<sup>\*</sup>.
+  link:
+    url: https://academic.oup.com/femsle/article/323/1/29/451074?login=true
+    display: FEMS Microbiology Letters 323:29-34 (2011)
+  highlight: 0
+  news2:
+
+- title: "PdCYP51B, a new putative sterol 14α-demethylase gene of Penicillium digitatum involved in resistance to imazalil and other fungicides inhibiting ergosterol synthesis"
+  image:
+  description:
+  authors: __<u>X Sun</u>__, J Wang, D Feng, Z Ma, H Li<sup>\*</sup>
+  link:
+    url: https://link.springer.com/article/10.1007/s00253-011-3355-7
+    display: Applied Microbiology and Biotechnology 91:1107-1119 (2011)
+  highlight: 0
+  news2:
+
+- title: "CRISPR/Cas系统及其在昆虫基因功能研究中的应用"
+  image:
+  description:
+  authors: 张敏菁, 张春红, __<u>孙学鹏</u>,__ 李红叶, 祝增荣
+  link:
+    url:
+    display: 生命科学 27(1):99-106 (2015)
+  highlight: 0
+  news2:
+
+
+
+
+
+
+
 
 
 

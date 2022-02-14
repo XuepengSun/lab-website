@@ -19,7 +19,6 @@ We are a dynamic research group at the [Zhejiang A&F University](https://www.zaf
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
-        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
@@ -35,15 +34,12 @@ We are a dynamic research group at the [Zhejiang A&F University](https://www.zaf
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/p4.JPG" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/p5.JPG" alt="Slide 5" />
-        </div>       
+        </div>     
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/p6.JPG" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/p6.JPG" alt="Slide 5" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/p7.JPG" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/p7.JPG" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
