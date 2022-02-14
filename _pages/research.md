@@ -25,8 +25,8 @@ Genome editing in flowering trees is often less efficient than in annual plants.
 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/model.jpg){: style="width: 700px; float: left; margin: auto 100px"}
 
-<br>
-<br>
+<br/>
+<br/>
 
 
 
