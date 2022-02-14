@@ -15,8 +15,9 @@ permalink: /chinese/
 
 办公室：浙江农林大学学15-316
 
-Email：xs57@zafu.edu.cn  &nbsp;&nbsp;&nbsp;__<u>(有意向进本实验室读研究生的同学请直接联系此邮箱)</u>__
-<br>
+<font color="blue">Email：xs57@zafu.edu.cn</font>  &nbsp;&nbsp;&nbsp;__<u>(有意向进本实验室读研究生的同学请直接联系此邮箱)</u>__
+  
+<br/>
 
 #### 个人简介
 - 主要从事植物进化及功能基因组学研究，致力于通过计算生物学、基因组学、表观基因组学和基因编辑等方法系统解析果树基因组中的功能元件并探索其在果树遗传改良中的应用。近年来发表SCI论文37篇，包括以第一作者或通讯作者（含共同）在Cell，Nature Genetics，Nature Communications，Current Biology，New Phytologist，Plant Biotechnology Journal，Journal of Experimental Botany及 Journal of Virology等期刊上发表论文17篇，累计影响因子161.412，授权专利1项。
@@ -26,7 +27,7 @@ Email：xs57@zafu.edu.cn  &nbsp;&nbsp;&nbsp;__<u>(有意向进本实验室读研
 - **实验室研究方向，参见：https://www.fruitgenomics.com/research/**
 
 - **实验室成员，参见：https://www.fruitgenomics.com/team/**
-<br>
+<br/>
 
 #### 基金项目
 
