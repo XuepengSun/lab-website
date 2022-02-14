@@ -30,7 +30,7 @@
 
 - title: "Genomic analyses provide insights into spinach domestication and the genetic basis of agronomic traits"
   image: spinach.jpg
-  description: Most of us are familiar with \"spinach teeth\" – the harmless but gritty-chalky mouthfeel caused by the vegetable. An international team led by us has identified genes in spinach that regulate its concentration of oxalate, which is responsible for \"spinach teeth\", as well as genes that help the plant combat downy mildew, a major disease of commercial crops. 
+  description: Most of us are familiar with \"spinach teeth\" – the harmless but gritty-chalky mouthfeel caused by the vegetable. An international team led by us has identified candidate genes in spinach that regulate its concentration of oxalate, which is responsible for \"spinach teeth\", as well as genes that help the plant combat downy mildew, a major disease of commercial crops. 
   authors: X Cai<sup>\#</sup>, __<u>X Sun</u><sup>\#</sup>__, C Xu<sup>\#</sup>, H Sun, X Wang, C Ge, Z Zhang, Q Wang<sup>\*</sup>, Z Fei<sup>\*</sup>, C Jiao<sup>\*\#</sup>, Q Wang<sup>\*</sup>.
   link:
     url: https://www.nature.com/articles/s41467-021-27432-z
@@ -38,15 +38,25 @@
   highlight: 1
   news2: see [Cornell Chronicle](https://news.cornell.edu/stories/2021/12/gene-discoveries-could-lead-heartier-less-gritty-spinach), [ZJU News](https://www.zju.edu.cn/english/2021/1222/c19573a2453904/page.htm), [中文报道](http://www.cab.zju.edu.cn/chinese/2021/1215/c11148a2451673/page.htm)
 
-- title:
+- title: "Cutin and suberin: assembly and origins of specialized lipidic cell wall scaffolds"
   image:
   description:
-  authors:
+  authors: G Philippe, I Sørensen, C Jiao, __<u>X Sun</u>__, Z Fei, DS Domozych, JKC Rose<sup>\*</sup>.
   link:
-    url:
-    display:
+    url: https://www.sciencedirect.com/science/article/pii/S1369526620300194
+    display: Current Opinion in Plant Biology 55:11-20 (2020)
   highlight: 0
   news2:
+
+- title: "The Penium margaritaceum genome: hallmarks of the origins of land plants"
+  image: penium.jpg
+  description: Penium margaritaceum belongs to a group of freshwater algae called charophytes, and specifically to a subgroup called the Zygnematophyceae, which had a common ancestor with the first land plants some 600 million years ago. In order to shift from water to land – a transition that still puzzles scientists –  plants had to protect themselves from drying out and from ultraviolet (UV) radiation, and they had to develop structures to support themselves without the buoyancy provided by water. Through sequencing and analyzing the genome of P. margaritaceum, we and collaborators have found footprints of these adaptations, providing insight into the mechanisms and genetics that early terrestrial plants required.
+  authors: C Jiao<sup>\#</sup>, I Sørensen<sup>\#</sup>, __<u>X Sun</u><sup>\#</sup>__, H Sun, H Behar, S Alseekh, G Philippe, KP Lopez, L Sun, R Reed, S Jeon, R Kiyonami, S Zhang, AR Fernie, H Brumer, DS Domozych<sup>\*</sup>, Z Fei<sup>\*</sup>, JKC Rose<sup>\*</sup>.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0092867420304827
+    display: Cell 181:1097-1111 (2020)
+  highlight: 1
+  news2: see [Cell Preview](https://www.sciencedirect.com/science/article/pii/S0092867420305730), [Nature Plants Research Highlight](https://www.nature.com/articles/s41477-020-0712-5), [Cornell News](https://cals.cornell.edu/news/algal-genome-provides-insights-first-land-plants)
 
 - title:
   image:
@@ -57,6 +67,7 @@
     display:
   highlight: 0
   news2:
+
 
 
 
