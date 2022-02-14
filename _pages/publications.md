@@ -62,6 +62,7 @@ permalink: /publications/
 {% endfor %}
 
 ## Patents
+孙学鹏, 李红叶. PCR法检测抗抑霉唑柑橘绿霉菌菌系的引物序列及方法, CN201010591618.1.
 
 <p> &nbsp; </p>
 <p> &nbsp; </p>
