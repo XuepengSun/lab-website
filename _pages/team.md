@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-Jump to [Principal investigator](#principal-investigator), [Researchers](#researchers), [Graduate students](#graduate-students), [Alumni](#alumni), [Lab visitors and Internships](#lab-visitors-and-internships).
+Jump to [Principal investigator](#principal-investigator), [Researchers](#researchers), [Graduate students](#graduate-students), [Alumni](#alumni), [Visitors and Internships](#visitors-and-internships).
 
 ## Principal investigator
 {% assign number_printed = 0 %}
