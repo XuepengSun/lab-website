@@ -240,8 +240,8 @@ Jump to [Principal investigator](#principal-investigator), [Researchers](#resear
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
+<h4>Undergraduates</h4>
+{% for member in site.data.alumni_internship %}
 {{ member.name }}
 {% endfor %}
 </div>
@@ -254,8 +254,8 @@ Jump to [Principal investigator](#principal-investigator), [Researchers](#resear
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Internships</h4>
-{% for member in site.data.alumni_internship %}
+<h4>Vistors</h4>
+{% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
