@@ -1,54 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Sub Lab - Team</title>
-  <meta name="description" content="Sub Lab: Team members">
-  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/team/">
-<link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="http://localhost:4000/">Sun Laboratory</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="http://localhost:4000/">Home</a></li>
-		<li><a href="http://localhost:4000/research">Research</a></li>
-		<li><a href="http://localhost:4000/publications">Publications</a></li>
-		<li><a href="http://localhost:4000/team">Team</a></li>
-		<li><a href="http://localhost:4000/contact">Contact</a></li>
-		<li><a href="http://localhost:4000/pictures">Pictures</a></li>
-		<li><a href="http://localhost:4000/chinese">中文版</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="gridid" class="col-sm-12">
-  <h1 id="group-members">Group Members</h1>
+I"�<h1 id="group-members">Group Members</h1>
 
 <p>Jump to <a href="#principal-investigator">Principal investigator</a>, <a href="#researchers">Researchers</a>, <a href="#graduate-students">Graduate students</a>, <a href="#alumni">Alumni</a>, <a href="#visitors-and-internships">Visitors and Internships</a>.</p>
 
@@ -264,41 +214,4 @@
 
 </div>
 
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a> <br />
-		  - <a href='https://www.zafu.edu.cn/'>Zhejiang A&F University (ZAFU)</a> 
-		</div>
-		<div class="col-sm-4">
-		  Location:<br />
-		  316 College building #15<br />
-		  666 wusu street, Linan<br />
-		  Hangzhou, Zhejiang 311300, China<br />
-		</div>
-		<div class="col-sm-4">
-		  Campus:<br />
-		  Donghu campus (<a href="https://map.baidu.com/poi/%E6%B5%99%E6%B1%9F%E5%86%9C%E6%9E%97%E5%A4%A7%E5%AD%A6-%E5%86%9C%E4%B8%9A%E4%B8%8E%E9%A3%9F%E5%93%81%E7%A7%91%E5%AD%A6%E5%AD%A6%E9%99%A2/@13328914.524999999,3515976.830000001,19z?uid=3d8db7f4048b184a88db7354&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl">Map</a>)<br />
-		  Yijin campus (<a href="https://map.baidu.com/poi/%E6%B5%99%E6%B1%9F%E5%86%9C%E6%9E%97%E5%A4%A7%E5%AD%A6(%E8%A1%A3%E9%94%A6%E6%A0%A1%E5%8C%BA)/@13328962.895,3513164.61,19z?uid=cc067ca2f8d58d11fea7786d&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl">Map</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="http://localhost:4000/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
