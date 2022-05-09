@@ -11,6 +11,7 @@ permalink: /chinese/
 
 - 2021-至今，浙江农林大学
 - 2015-2020，Boyce Thompson Institue，博士后
+- 2012-2015，Cornell University，联合培养博士
 - 2009-2015，浙江大学，博士
 
 办公室：浙江农林大学学15-316
