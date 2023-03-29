@@ -1,6 +1,96 @@
+ title: "The Torreya grandis genome illuminates the origin and evolution of gymnosperm-specific sciadonic acid biosynthesis"
+  image: Torreya.jpg
+  description: we assemble a chromosome-scale reference genome for T. grandis, accompanied by transcriptome and methylome profiling in multiple tissues. Our data, through comparative genomic analyses, unravel interesting footprints associated with morphological diversity of major land plant lineages, and discover and validate two key enzymes that are responsible for SCA biosynthesis. 
+  authors: H Lou<sup>\#</sup>, L Song<sup>\#</sup>, X Li<sup>\#</sup>, H Zi, W Chen, Y Gao, S Zheng, Z Fei\*, __<u>X Sun</u><sup>\*</sup>__, J Wu\* 
+  link:
+    url: https://www.nature.com/articles/s41467-023-37038-2
+    display: Nature Communications 14:1315 (2023)
+  highlight: 1
+  news2: [ZAFU News](https://www.zafu.edu.cn/info/1002/106026.htm)
+
+- title: "Differential regulation of red light- and ethephon-induced degreening in postharvest kumquat fruit"
+  image:
+  description:
+  authors: J Gong, H Yang, Y Xu, Y Zeng, P Liu, C Chen, P Wang\*, __<u>X Sun</u><sup>\*</sup>__
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S092552142300025X
+    display: Postharvest Biology and Technology 198:112264 (2023)
+  highlight: 0
+  news2:
+  
+- title: "A MYB Transcription Factor Atlas Provides Insights into the Evolution of Environmental Adaptations in Plants"
+  image:
+  description:
+  authors: C Zhang, C Jiao, __<u>X Sun</u><sup>\*</sup>__, X Li\* 
+  link:
+    url: https://www.mdpi.com/resolver?pii=ijms24032566
+    display: International Journal of Molecular Science 24(3):2566 (2023)
+  highlight: 0
+  news2:
+  
+- title: "Nanopore long-read RNAseq reveals transcriptional variations in citrus species"
+  image:
+  description:
+  authors: X Hu, C You, K Zhu, X Li, J Gong, H Ma, __<u>X Sun</u><sup>\*</sup>__
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fpls.2022.1077797/full
+    display: Frontiers in Plant Science 13:1077797 (2023)
+  highlight: 0
+  news2:
+  
+- title: "Combining BN-PAGE and microscopy techniques to investigate pigment-protein complexes and plastid transitions in citrus fruit"
+  image:
+  description:
+  authors: J Gong, H Zhang, Y Zeng, Y Cheng, __<u>X Sun</u><sup>\*</sup>__, P Wang\*
+  link:
+    url: https://plantmethods.biomedcentral.com/articles/10.1186/s13007-022-00956-1
+    display: Plant Methods 18(1):124 (2022)
+  highlight: 0
+  news2:
+
+- title: "Highly efficient hairy root genetic transformation and applications in citrus"
+  image:
+  description:
+  authors: H Ma\#, X Meng\#, K Xu, M Li, FG Gmitter Jr, N Liu, Y Gai, S Huang, M Wang, M Wang, N Wang, H Xu, J Liu\*, __<u>X Sun</u><sup>\*</sup>__, S Duan\*
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fpls.2022.1039094/full
+    display: Frontiers in Plant Science 13:1039094 (2022)
+  highlight: 0
+  news2:
+
+- title: "Genomic and Transcriptomic Characterization of Alternaria alternata during Infection"
+  image:
+  description:
+  authors: Y Gai\*, Q Niu, J Kong, L Li, X Liang, Y Cao, X Zhou, __<u>X Sun</u>__, H Ma, M Wang, N Shrivastava, H Li, C Jiao\*
+  link:
+    url: https://www.mdpi.com/2073-4395/13/3/809
+    display: Agronomy 13(3),809 (2023)
+  highlight: 0
+  news2:
+
+- title: "Loss of function of bHLH transcription factor Nrd1 in tomato induces an arabinogalactan protein-encoding gene and enhances resistance to Pseudomonas syringae pv. tomato"
+  image:
+  description:
+  authors: N Zhang, C Hecht, __<u>X Sun</u>__, Z Fei, G Martin\*.
+  link:
+    url: 
+    display: Plant Physiology (2022)
+  highlight: 0
+  news2:
+
+- title: "Histone methylation is required for virulence, conidiation and multi-stress resistance of Alternaria alternata"
+  image:
+  description:
+  authors: S Meng, S Huang, J Liu, Y Gai, M Li, S Duan, S Zhang, __<u>X Sun</u>__, Q Yang, Y Wang, K Xu\*, H Ma\*.
+  link:
+    url: 10.3389/fmicb.2022.924476
+    display: Frontiers in Microbiology (2022)
+  highlight: 0
+  news2:
+
 - title: "Genomic insights into the origin, adaptive evolution and herbicide resistance of Leptochloa chinensis, a devastating tetraploid weedy grass in rice fields"
   image: qianjinzi.jpg
-  description:
+  description: Chinese sprangletop (Leptochloa chinensis), belonging to the grass subfamily Chloridoideae, is one of the most notorious weeds in rice ecosystems. Here, we report a chromosome-scale reference genome assembly and a genomic variation map of the tetraploid L. chinensis. 
   authors: L Wang<sup>\#</sup>, __<u>X Sun</u><sup>\#</sup>__, Y Peng<sup>\#</sup>, K Chen<sup>\#</sup>, S Wu<sup>\#</sup>, Y Guo, J Zhang, H Yang, T Jin, L Wu, X Zhou, B Liang, Z Zhao, D liu\*, Z Fei\*, L Bai\*.
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1674205222001496
