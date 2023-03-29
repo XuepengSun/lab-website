@@ -1,12 +1,12 @@
 
 - title: "The Torreya grandis genome illuminates the origin and evolution of gymnosperm-specific sciadonic acid biosynthesis"
   image:
-  description:
-  authors: H Lou<sup>\#</sup>, L Song<sup>\#</sup>, X Li<sup>\#</sup>, H Zi, W Chen, Y Gao, S Zheng, Z Fei\*, __<u>X Sun</u><sup>\*</sup>__, J Wu\*_
+  description: We assemble a chromosome-scale reference genome for T. grandis, accompanied by transcriptome and methylome profiling in multiple tissues. Our data, through comparative genomic analyses, unravel interesting footprints associated with morphological diversity of major land plant lineages, and discover and validate two key enzymes that are responsible for SCA biosynthesis.
+  authors: H Lou<sup>\#</sup>, L Song<sup>\#</sup>, X Li<sup>\#</sup>, H Zi, W Chen, Y Gao, S Zheng, Z Fei\*, __<u>X Sun</u><sup>\*</sup>__, J Wu\*
   link:
     url: https://www.nature.com/articles/s41467-023-37038-2
     display: Nature Communications 14:1315 (2023)
-  highlight: 0
+  highlight: 1
   news2: see [ZAFU News](https://www.zafu.edu.cn/info/1002/106026.htm)
 
 - title: "Differential regulation of red light- and ethephon-induced degreening in postharvest kumquat fruit"
